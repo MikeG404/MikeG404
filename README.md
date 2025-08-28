@@ -14,8 +14,7 @@ Now I'm ready stopping avoiding what I love and will **PUSHING** stuff every day
 
 ## My stacks
 <p align="left">
-  <p></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,next,express,nodejs,threejs,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,next,express,nodejs,threejs,git,github&perline=5" />
   </a>
 </p>
