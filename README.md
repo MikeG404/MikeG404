@@ -14,7 +14,7 @@ Now I'm ready stopping avoiding what I love and will **PUSHING** stuff every day
 ## Front Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,next,threejs,git,github&perline=5" />
+    <img src="https://skillicons.dev/icons?i=react,next,threejs,git,github&perline=5" />
   </a>
 </p>
 
