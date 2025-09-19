@@ -6,11 +6,6 @@ I'm passionnate about new technologies with a fondness for Frontend and especial
 
 Now I'm ready stopping avoiding what I love and will **PUSHING** stuff every day!
 
-## Objectives
-- [ ] Create my portfolio
-- [ ] Learn Three.js
-- [ ] Open my own company
-
 ## Stack
 <p align="left">
   <a href="https://skillicons.dev">
